@@ -1,5 +1,5 @@
-import PropertyCard from "./PropertyCard";
-import PropertyImage from "./PropertyImage";
+import PropertyCard from "../PropertyCard/PropertyCard";
+import PropertyImage from "../Propertyimage/PropertyImage";
 import "./PropertyList.css";
 
 function PropertyList({ properties }) {

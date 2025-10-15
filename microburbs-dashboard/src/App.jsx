@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import PropertyList from "./components/PropertyList";
+import PropertyList from "./components/Propertylist/PropertyList";
 import "./App.css";
 
 function App() {
