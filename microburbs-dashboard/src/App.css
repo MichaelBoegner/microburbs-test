@@ -1,0 +1,17 @@
+.app-container {
+  font-family: system-ui, sans-serif;
+  padding: 1.5rem;
+  background: black;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.loading, .error {
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+

@@ -1,0 +1,51 @@
+.property-card {
+  background: lightblue;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  width: 50%;
+}
+
+.property-card h2 {
+  margin-bottom: 0px;
+  color: #333;
+}
+
+.location {
+  color: black;
+}
+
+.property-card .price {
+  color: #006400;
+  font-weight: bold;
+  margin: 0.5rem 0;
+}
+
+.details {
+  color: black;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
+}
+
+.desc {
+  font-size: 0.9rem;
+  color: #444;
+  margin-bottom: 0.5rem;
+}
+
+.meta {
+  color: black;
+}
+
+.map-link {
+  color: #0366d6;
+  text-decoration: none;
+  font-size: 0.9rem;
+}
+
+.map-link:hover {
+  text-decoration: underline;
+}
